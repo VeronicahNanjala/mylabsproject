@@ -1,0 +1,37 @@
+/* shoo website*/
+
+.logo{
+   padding:5px;
+}
+
+.menu{
+  padding:5px;
+   clear: left;
+   text-align: center;
+  margin-top:-60px;
+  float:right;
+ margin-right:30px;
+
+}
+a{
+text-decoration:none;
+color:black;
+ padding-right:15px;
+}
+
+.body{
+color:white;
+background-color: skyblue;
+}
+
+.footer{
+  padding:5px;
+   clear: left;
+   text-align: center;
+  margin:auto;
+}
+
+.tbl {
+    border: 1px solid black;
+}
+

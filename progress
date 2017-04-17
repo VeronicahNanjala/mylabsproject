@@ -1,0 +1,9 @@
+...create sign up page 
+...modify login page to use password
+...encrypt password
+...make use of session variables
+Display full name of the user at the top right corner of your web page
+create a database that logs in all errors, login attepmts, time the eror occured, who caused it etc 
+
+password_hash()
+password_verify(dbpassword, userpassword)
